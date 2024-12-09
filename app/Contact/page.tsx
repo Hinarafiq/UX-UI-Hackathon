@@ -52,7 +52,7 @@ export default function Contact() {
                     <input type="text" id="subj" placeholder="This is an optional" className="border-black p-1 rounded-md border-solid border-[1px]"/> <br />
 
                     <label htmlFor="msg">Message</label> <br />
-                    <textarea name="" id="msg" className="border-black p-5 rounded-md border-solid border-[1px]">Hii i'd like to ask about</textarea> <br />
+                    <textarea name="" id="msg" className="border-black p-5 rounded-md border-solid border-[1px]">Hii I had like to ask about</textarea> <br />
                     
                     <button className="border-black p-2 rounded-md border-solid border-[1px]">Submit</button>
                 </div>
