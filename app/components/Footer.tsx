@@ -1,10 +1,10 @@
 export default function Footer (){
     return (
-        <div className="w-[200px] md:w-[1440px] h-[100px] md:h-[455px] bg-[#FFFFFF]">
+        <div className="md:w-[1440px] h-[100px] md:h-[455px] bg-[#FFFFFF]">
             <div className="w-[620px] md:w-[1240.01px] h-[419px] md:ml-[240px]">
                 {/* Footer Top Section */}
-                <div className="w-[400px] md:w-[1131px]  grid md:flex h-[312px] ml-[70px] md:ml-[140.01px] border-gray-400">
-                   <h1 className="w-[258px] h-[92px] md:ml-[102px] mt-28 text-[#9F9F9F] font-normal leading-6">400 University Drive Suite 200 Coral <br />Gables,<br />FL 331334 USA</h1>
+                <div className="md:w-[1131px]  grid md:flex h-[312px] ml-[70px] md:ml-[140.01px] border-gray-400">
+                   <h1 className="md:w-[258px] h-[92px] md:ml-[102px] mt-28 text-[#9F9F9F] font-normal leading-6">400 University Drive Suite 200 Coral <br />Gables,<br />FL 331334 USA</h1>
                   
                    <ul className="w-[140px] h-[232px] flex-col leading-9 mt-20 md:ml-[80px]">
                     <li className="text-[#9F9F9F] font-medium">Links</li>
