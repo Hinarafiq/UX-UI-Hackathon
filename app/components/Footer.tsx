@@ -1,7 +1,7 @@
 export default function Footer (){
     return (
-        <div className="md:w-[1440px] h-[100px] md:h-[455px] bg-[#FFFFFF]">
-            <div className="w-[620px] md:w-[1240.01px] h-[419px] md:ml-[240px]">
+        <div className="md:w-full h-[100px] md:h-[455px] bg-[#FFFFFF]">
+            <div className="w-[620px] md:w-[940px] h-[419px] ">
                 {/* Footer Top Section */}
                 <div className="md:w-[1131px]  grid md:flex h-[312px] ml-[70px] md:ml-[140.01px] border-gray-400">
                    <h1 className="md:w-[258px] h-[92px] md:ml-[102px] mt-28 text-[#9F9F9F] font-normal leading-6">400 University Drive Suite 200 Coral <br />Gables,<br />FL 331334 USA</h1>
@@ -29,7 +29,7 @@ export default function Footer (){
 
                 <hr className="mt-[700px] md:mt-0 w-[400px] md:w-full"/>
 
-                 <div className="w-[200px] md:w-[1240px] h-[39px] ml-[100px] text-[#000000] font-medium leading-2 md:leading-6 mt-3">
+                 <div className="w-[200px] md:w-[1040px] h-[39px] ml-[100px] text-[#000000] font-medium leading-2 md:leading-6 mt-3">
                     <h1 >2022 Meubel House. <br className="block lg:hidden"/> All rights reverved</h1>
                  </div>
             </div>
