@@ -19,7 +19,7 @@ export default function Cart () {
                             <li>Subtotal</li>
                            </ul>
 
-                           <ul className="flex md:mt-16 gap-12">
+                           <ul className="flex md:mt-16 gap-6 md:gap-12">
                             <li><Image src="/AsgaardSofa.png" alt="Asgaard Sofa" height="106" width="106" /></li>
                             <li className="text-[#9F9F9F] hidden md:block">Asgaard Sofa</li>
                             <li className="text-[#9F9F9F]">Rs. 250,000.00</li>
