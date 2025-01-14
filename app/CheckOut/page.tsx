@@ -8,7 +8,7 @@ export default function CheckOut () {
             </div>
 
             <div className="w-full grid md:flex h-[1849px] md:h-[1249px]">
-                 <div className="md:w-[608px] h-[480px] md:h-[1014px] md:ml-[300px] md:pt-[279px]">
+                 <div className="md:w-[608px] h-[480px] md:h-[1014px] md:ml-[200px] md:pt-[279px]">
                     <h1 className="font-bold text-4xl">Billing details</h1> 
                      <label htmlFor="fName" className="font-semibold text-2xl pt-16">First Name</label> <br />
                      <input type="text" id="fName" className="border-[1px] border-[#9F9F9F] w-[211px] h-[75px] mt-[25px] rounded-lg"/> <br />
@@ -31,7 +31,7 @@ export default function CheckOut () {
                      <input type="text" placeholder="Additional Information" className="border-[1px] border-[#9F9F9F] w-[411px] h-[75px] mt-[25px] p-4 rounded-lg"/> <br />
                 </div> 
 
-                <div className="md:w-[608px] h-[789px] ml-4 md:ml-[100px] pt-[279px]">
+                <div className="md:w-[608px] h-[789px] ml-4 md:ml-[50px] pt-[279px]">
                      <div className="grid md:flex justify-between leading-9"> 
                         <ul>
                             <li className="font-bold text-3xl">Product</li>
