@@ -82,7 +82,7 @@ export default function AsgaardSofaInfo(){
                     </ul>
                 </div>
 
-                <div className='md:w-[1026x] h-[60px] md:h-[174px] md:ml-[427px] pt-20 mt-4 font-normal text-[#9F9F9F] leading-8'>
+                <div className='md:w-[1026x] h-[60px] md:h-[174px] md:ml-[227px] pt-20 mt-4 font-normal text-[#9F9F9F]'>
                    <p>Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and <br />
                    sound of Marshall, unplugs the chords, and takes the show on the road.</p>
                             <br />
@@ -91,9 +91,9 @@ export default function AsgaardSofaInfo(){
                      to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.</p>
                 </div>
 
-                <div className='md:w-[1239px] h-[528px] grid md:flex pt-[656px] md:pt-[156px] md:ml-[100px]'>
-                    <Image src="/DescriptionPic.png" alt='Description' height="348" width="605" className='md:ml-[100px]'/>
-                    <Image src="/DescriptionPic2.png" alt='Description' height="348" width="605" className='md:ml-[100px]'/>
+                <div className='md:w-[1239px] h-[528px] grid md:flex pt-[656px] md:pt-[156px]'>
+                    <Image src="/DescriptionPic.png" alt='Description' height="348" width="605" className='md:ml-[40px]'/>
+                    <Image src="/DescriptionPic2.png" alt='Description' height="348" width="605" className='md:ml-[40px]'/>
                 </div>
            </div>
         </div>
