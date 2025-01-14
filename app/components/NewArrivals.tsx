@@ -2,9 +2,9 @@ import Image from "next/image"
 import Link from "next/link"
 export default function NewArrivals () {
     return (
-        <div className="w-full h-[850px] md:h-[793px] grid md:flex bg-[#FFF9E5]">
+        <div className="w-full h-[850px] md:h-[693px] grid md:flex bg-[#FFF9E5]">
              <div>
-                <Image src="/AsgaardSofa.png" alt="Asgaard Sofa" height="799" width="983"/>
+                <Image src="/AsgaardSofa.png" alt="Asgaard Sofa" height="799" width="983" className="md:mt-30"/>
              </div>
 
              <div className="w-[260px] md:w-[631px] h-[245px] ml-9 md:ml-60 mt-44 md:mt-72">
