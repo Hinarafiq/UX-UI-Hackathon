@@ -29,7 +29,7 @@ export default function Cart () {
                            </ul>
                       </div>
 
-                      <div className="md:h-[390px] md:w-[393px] pt-3 md:pt-[60px] pl-[120px] md:ml-[124px] bg-[#FFF9E5]">
+                      <div className="md:h-[390px] md:w-[393px] pt-3 md:pt-[60px] pl-[120px] md:ml-[104px] bg-[#FFF9E5]">
                           <h1 className="font-bold text-2xl">Cart Totals</h1>  
                           <div className="pt-[80px] flex gap-10 leading-10"> 
                            <ul className="font-medium">
