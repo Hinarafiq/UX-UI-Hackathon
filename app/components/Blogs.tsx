@@ -4,14 +4,14 @@ export default function Blog () {
     return (
         <div className="w-full h-[1740px] md:h-[744px] bg-[#FFFFFF]">
 
-             <div className="w-full md:w-[459px] h-[91px] md:ml-[740px]">
+             <div className="w-full md:w-[459px] h-[91px] md:ml-[440px]">
                <ul>
                 <li className="font-bold mt-6 text-5xl md:ml-6">Our Blogs</li>
                 <li className="text-[#9F9F9F] mt-8">Find a bright ideal to suit your taste with our great selection</li>
                </ul>
              </div>
 
-              <div className="w-full md:w-[1240px] h-[679px] md:ml-[300px] gap-4 mt-14">
+              <div className="w-full md:w-[1240px] h-[679px] md:ml-6 gap-4 mt-14">
 
                   <div className="md:w-[1240px] h-[555px] grid md:flex justify-around">
 
