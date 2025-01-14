@@ -8,8 +8,8 @@ export default function CheckOut () {
             </div>
 
             <div className="w-full h-[3000px] md:h-[2719px] text-center leading-9 md:pt-56">
-              <Image src="/Rectangle14.png" alt="Blog1" height="817" width="500" className="md:ml-[700px]"/>
-              <ul className="flex gap-9 md:ml-[850px] font-medium">
+              <Image src="/Rectangle14.png" alt="Blog1" height="817" width="500" className="md:ml-[400px]"/>
+              <ul className="flex gap-9 md:ml-[450px] font-medium">
                 <li>Admin</li>
                 <li>14 Oct 2022</li>
                 <li>Wood</li>
@@ -24,8 +24,8 @@ export default function CheckOut () {
               </p>
               <h1 className="font-medium"><u>Read More</u></h1>
          
-              <Image src="/Rectangle13.png" alt="Blog2" height="817" width="500" className="md:ml-[700px]"/>
-              <ul className="flex gap-9 md:ml-[850px] font-medium">
+              <Image src="/Rectangle13.png" alt="Blog2" height="817" width="500" className="md:ml-[400px]"/>
+              <ul className="flex gap-9 md:ml-[450px] font-medium">
                 <li>Admin</li>
                 <li>14 Oct 2022</li>
                 <li>Wood</li>
@@ -41,8 +41,8 @@ export default function CheckOut () {
               <h1 className="font-medium"><u>Read More</u></h1>
 
               
-              <Image src="/Rectangle15.png" alt="Blog3" height="817" width="500" className="md:ml-[700px]"/>
-              <ul className="flex gap-9 md:ml-[850px] font-medium">
+              <Image src="/Rectangle15.png" alt="Blog3" height="817" width="500" className="md:ml-[400px]"/>
+              <ul className="flex gap-9 md:ml-[450px] font-medium">
                 <li>Admin</li>
                 <li>14 Oct 2022</li>
                 <li>Wood</li>
@@ -57,7 +57,7 @@ export default function CheckOut () {
               </p>
               <h1 className="font-medium"><u>Read More</u></h1>
               
-              <div className="p-8 md:ml-[822px]">
+              <div className="p-8 md:ml-[442px]">
                 <ul className=" border-white gap-9 flex ">
                    <li className="bg-[#FFF9E5] w-6 h-6 ">1</li>
                   <li  className="bg-[#FFF9E5] w-6 h-6 ">2</li>
