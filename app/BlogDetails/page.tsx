@@ -7,7 +7,7 @@ export default function CheckOut () {
             <Image src="/bg-6.png" alt="background" height="940" width="1946" className="bg-cover bg-no-repeat" />
             </div>
 
-            <div className="w-full h-[3000px] md:h-[2719px] text-center leading-9 md:pt-56">
+            <div className="w-full h-[3500px] md:h-[2719px] text-center leading-9 md:pt-56">
               <Image src="/Rectangle14.png" alt="Blog1" height="817" width="500" className="md:ml-[400px]"/>
               <ul className="flex gap-9 md:ml-[450px] font-medium">
                 <li>Admin</li>
