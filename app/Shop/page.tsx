@@ -30,25 +30,25 @@ export default function Shop() {
 
               <div className="grid md:flex">
 
-                <div className="w-[287px] gap-4 h-[372px] md:ml-[100px]">
+                <div className="w-[287px] gap-4 h-[372px] ">
                   <Image src="/TrentoModularSofa.png" alt="Trento Modular Sofa" height="287" width="287" className="ml-[90px]" />
                    <h1 className="font-normal leading-6 text-center ml-28">Trenton Modular Sofa_3</h1>
                    <h1 className="font-medium leading-9 text-center ml-32">Rs. 25,000.00</h1>
                 </div>
 
-                <div className="w-[287px] gap-4 h-[372px] md:ml-[100px]">
+                <div className="w-[287px] gap-4 h-[372px] ">
                   <Image src="/GraniteDinningTableWithDinningChair.png" alt="Granite dining table with dining chair" height="287" width="287" className="ml-[90px]" />
                    <h1 className="font-normal leading-6 text-center ml-28">Granite dining table with dining chair</h1>
                    <h1 className="font-medium leading-9 text-center ml-32">Rs. 25,000.00</h1>
                 </div>
 
-                <div className="w-[287px] gap-4 h-[372px] md:ml-[100px]">
+                <div className="w-[287px] gap-4 h-[372px] ">
                   <Image src="/OutdoorBarTable&Stool.png" alt="Outdoor bar table and stool" height="287" width="287" className="ml-[90px]" />
                    <h1 className="font-normal leading-6 text-center ml-28">Outdoor bar table and stool</h1>
                    <h1 className="font-medium leading-9 text-center ml-32">Rs. 25,000.00</h1>
                 </div>
 
-                <div className="w-[287px] gap-4 h-[372px] md:ml-[100px]">
+                <div className="w-[287px] gap-4 h-[372px] ">
                   <Image src="/TrentoModularSofa.png" alt="Plain console with teak mirror " height="287" width="287" className="ml-[90px]" />
                    <h1 className="font-normal leading-6 text-center ml-28">Plain console with teak mirror</h1>
                    <h1 className="font-medium leading-9 text-center ml-32">Rs. 25,000.00</h1>
@@ -57,32 +57,32 @@ export default function Shop() {
 
               <div className="grid md:flex mt-6">
 
-                <div className="w-[287px] gap-4 h-[372px] md:ml-[100px]">
+                <div className="w-[287px] gap-4 h-[372px] ">
                  <Image src="/GraniteSquareSideTable.png" alt="Granite square side table" height="287" width="287" className="md:ml-[90px]" />
                  <h1 className="font-normal leading-6 text-center ml-28">Granite square side table</h1>
                  <h1 className="font-medium leading-9 text-center ml-32">Rs. 258,800.00</h1>
                 </div>
 
-                <div className="w-[287px] gap-4 h-[372px] md:ml-[100px]">
+                <div className="w-[287px] gap-4 h-[372px] ">
                   <Image src="/CloudSofaThreeSeater+Ottoman.png" alt="Cloud sofa three seater" height="287" width="287" className="md:ml-[90px]" />
                   <h1 className="font-normal leading-6 text-center mt-9 ml-28">Cloud sofa three seater</h1>
                   <h1 className="font-medium leading-9 text-center ml-32">Rs. 115,000.00</h1>
                 </div>
 
-                <Link href="/AsgaadarSofa"><div className="w-[287px] gap-4 h-[372px] md:ml-[100px]">
+                <Link href="/AsgaadarSofa"><div className="w-[287px] gap-4 h-[372px] ">
                  <Image src="/AsgaardSofa.png" alt="Asgaard sofa" height="287" width="287" className="ml-[90px]" />
                  <h1 className="font-normal leading-6 text-center mt-9 ml-28">Asgaard sofa</h1>
                  <h1 className="font-medium leading-9 text-center ml-32">Rs. 25,000.00</h1>
                 </div></Link>
 
-                <div className="w-[287px] gap-4 h-[372px] md:ml-[100px]">
+                <div className="w-[287px] gap-4 h-[372px] ">
                  <Image src="/OutDoorSofa.png" alt="Outdoor sofa set" height="287" width="287" className="ml-[90px]" />
                  <h1 className="font-normal leading-6 text-center ml-28">Outdoor sofa set</h1>
                  <h1 className="font-medium leading-9 text-center ml-32">Rs. 244,000.00</h1>
                 </div>
              </div>
 
-       <div className="p-8 md:ml-[822px]">
+       <div className="p-8 md:ml-[522px]">
         <ul className=" border-white gap-9 flex ">
           <li className="bg-[#FFF9E5] w-6 h-6 ">1</li>
           <li  className="bg-[#FFF9E5] w-6 h-6 ">2</li>
