@@ -17,7 +17,7 @@ export default function Contact() {
               <h1 className="font-normal mt-2 text-[#9F9F9F]">For More Information About Our Product & Services. Please Feel Free To Drop Us <br /> An Email. Our Staff Always Be There To Help You Out. Do Not Hesitate!</h1>
             </div>
 
-            <div className="w-[923px] h-[1298px] md:h-[668px] pt-[136px] grid md:flex md:ml-[521px]">
+            <div className="w-[923px] h-[1298px] md:h-[668px] pt-[136px] grid md:flex md:ml-[321px]">
 
                 <div className="w-[393px] h-[537px] leading-9 ml-8 md:ml-8">
                       <ul className="flex gap-6 font-bold text-2xl">
