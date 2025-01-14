@@ -7,7 +7,7 @@ export default function CheckOut () {
             <Image src="/bg-7.png" alt="background" height="940" width="1946" className="bg-cover bg-no-repeat" />
             </div>
 
-            <div className="w-full h-[960px] md:h-[555px] grid md:flex mt-44 ">
+            <div className="w-full h-[1080px] md:h-[555px] grid md:flex md:mt-36 ">
                  <div className="md:ml-52 leading-6">
                     <h1 className="font-bold text-4xl">Log In</h1>  <br />
                     <label htmlFor="userName" className="font-semibold text-2xl pt-16">Username or email address</label> <br />
@@ -20,7 +20,7 @@ export default function CheckOut () {
                     <h1 className="border-[#000000] border-[1px] rounded-lg font-sans w-[225px] text-center h-[50px] md:ml-10 mt-8 p-2 ">Log In</h1>
                  </div>
 
-                  <div className="md:ml-[300px] leading-7">
+                  <div className="md:ml-[300px] mt-2 md:mt-0 leading-7">
                   <h1 className="font-bold text-4xl">Register</h1>  <br />
                     <label htmlFor="Email" className="font-semibold text-2xl pt-16">Email address</label> <br />
                      <input type="password" id="Email" className="border-[1px] border-[#9F9F9F] w-[301px] h-[75px] mt-[25px] rounded-lg"/> <br />
